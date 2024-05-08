@@ -1,0 +1,106 @@
+* {
+    font-family: sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  h2,
+  strong {
+    color: #0d5f80;
+  }
+  
+  header {
+    background-color: #077caa;
+    padding: 20px;
+  }
+  
+  header * {
+    display: inline;
+  }
+  
+  header .logo {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  
+  header ul {
+    list-style: none;
+    margin-left: 20px;
+  }
+  
+  header ul li {
+    margin-right: 20px;
+  }
+  
+  header ul a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 30px;
+  }
+  
+  section {
+    padding: 10px;
+  }
+  
+  .cta {
+    color: #f77b08;
+    border: solid 2px #f77b08;
+    padding: 10px 20px;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  
+  .instagram {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 9px 30px;
+    border-radius: 10px;
+    border: solid 2px rgb(154, 55, 225);
+    background-color: rgb(154, 55, 225);
+  }
+  
+  .facebook {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 9px 30px;
+    border-radius: 10px;
+    border: solid 2px blue;
+    background-color: blue;
+  }
+  
+  .youtube {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 9px 30px;
+    border-radius: 10px;
+    border: solid 2px red;
+    background-color: red;
+  }
+  
+  footer {
+    padding: 30px;
+    background-color: #077caa;
+    color: white;
+  }
+  
+  footer .list-item {
+    list-style-type: none;
+    font-weight: bold;
+  }
+  
+  footer ul {
+    list-style-type: none;
+  }
+  
